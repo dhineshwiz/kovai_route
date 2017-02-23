@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dhinesh/StudioProjects/kovai_route/app/libs/google-play-services_lib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81741ed6ff71ed168ea0e4040dd94b7e07ba307c">
+        <dex dex="/home/dhinesh/StudioProjects/kovai_route/app/build/intermediates/pre-dexed/debug/google-play-services_lib_fbff05d1dee430124d7f6eb7da3725e5e6bd2644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhinesh/StudioProjects/kovai_route/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af4cc326e6cd92f88db12298767e521743aedd36">
+        <dex dex="/home/dhinesh/StudioProjects/kovai_route/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-19.1.0_5ce7cd06a7c7e37d044dcb2d648fd45b5de951b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhinesh/StudioProjects/kovai_route/app/libs/google-play-services.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="826507592fec9d8e26db18364e709df133c749ce">
+        <dex dex="/home/dhinesh/StudioProjects/kovai_route/app/build/intermediates/pre-dexed/debug/google-play-services_6c8654479fe1753399e8c426f0080de81594392f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhinesh/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/dhinesh/StudioProjects/kovai_route/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_4207707693737dc139301759fef3b86f0fec58ad.jar" />
+    </item>
+
+</items>

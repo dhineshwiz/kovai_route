@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/dhinesh/StudioProjects/kovai_route/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/dhinesh/StudioProjects/kovai_route/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/kovai_route/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher_1.png",
+        "source": "/home/dhinesh/StudioProjects/kovai_route/app/src/main/res/drawable-hdpi/ic_launcher_1.png"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/kovai_route/app/build/intermediates/res/merged/debug/drawable-hdpi/map.png",
+        "source": "/home/dhinesh/StudioProjects/kovai_route/app/src/main/res/drawable-hdpi/map.png"
+    }
+]
