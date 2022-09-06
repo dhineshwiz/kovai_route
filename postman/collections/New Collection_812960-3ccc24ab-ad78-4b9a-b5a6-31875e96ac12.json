@@ -5,5 +5,21 @@
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "812960-3ccc24ab-ad78-4b9a-b5a6-31875e96ac12"
 	},
-	"item": []
+	"item": [
+		{
+			"name": "New Request",
+			"id": "fda5390f-2d47-4ad1-b7aa-8785697364dc",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
 }
