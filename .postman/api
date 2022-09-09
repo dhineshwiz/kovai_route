@@ -1,4 +1,4 @@
-id = 8c7efb5b-d75c-42bd-b2d5-748c6049305a
+id = d0411fd2-721a-49b7-971e-8d4440a3bc1b
 
 [relations]
 
@@ -11,7 +11,6 @@ files[] = {"id":"9faf237d-2cd2-4f75-ba5b-7da03c4ea521","path":"Dhinesh Test_9002
 [relations.apiDefinition]
 rootDirectory = postman/schemas
 files[] = {"path":"index copy.yaml","metaData":{}}
-files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
