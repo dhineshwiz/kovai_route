@@ -1,16 +1,17 @@
-id = d0411fd2-721a-49b7-971e-8d4440a3bc1b
+id = 8c7efb5b-d75c-42bd-b2d5-748c6049305a
 
 [relations]
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"9faf237d-2cd2-4f75-ba5b-7da03c4ea521","path":"Dhinesh Test_900203-9faf237d-2cd2-4f75-ba5b-7da03c4ea521.json","metaData":{}}
+files[] = {"id":"d296da6c-270f-4f04-8344-7238cbaf0851","path":"Dhinesh Test_900203-9faf237d-2cd2-4f75-ba5b-7da03c4ea521.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
 files[] = {"path":"index copy.yaml","metaData":{}}
+files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
