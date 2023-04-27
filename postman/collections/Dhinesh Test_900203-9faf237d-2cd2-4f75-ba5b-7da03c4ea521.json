@@ -1,9 +1,40 @@
 {
 	"info": {
-		"_postman_id": "d296da6c-270f-4f04-8344-7238cbaf0851",
+		"_postman_id": "3c57e1ed-1885-4c8c-8266-a8bc506c02e9",
 		"name": "Dhinesh Test",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "900203-d296da6c-270f-4f04-8344-7238cbaf0851"
+		"_uid": "900203-3c57e1ed-1885-4c8c-8266-a8bc506c02e9"
 	},
-	"item": []
+	"item": [
+		{
+			"name": "New Request",
+			"id": "a175ea97-e41f-43f4-8878-dcc00aa97e2d",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": [
+				{
+					"id": "9177509c-5939-4707-9646-8dcbe591a4fe",
+					"name": "New Request",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://google.com",
+							"protocol": "https",
+							"host": [
+								"google",
+								"com"
+							]
+						}
+					},
+					"cookie": []
+				}
+			]
+		}
+	]
 }
